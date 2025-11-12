@@ -8,7 +8,7 @@ contract ACL {
     /// @notice Name of the contract
     string private constant CONTRACT_NAME = "ACL";
 
-    /// @notice Version of the contract
+    /// @notice Version of the contract created
     uint256 private constant MAJOR_VERSION = 0;
     uint256 private constant MINOR_VERSION = 1;
     uint256 private constant PATCH_VERSION = 0;
