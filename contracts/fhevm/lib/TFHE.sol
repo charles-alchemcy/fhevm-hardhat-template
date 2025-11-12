@@ -26,6 +26,7 @@ library Common {
     uint8 internal constant ebytes64_t = 9;
     uint8 internal constant ebytes128_t = 10;
     uint8 internal constant ebytes256_t = 11;
+    uint8 internal constant ebytes512_t = 12;
 }
 
 import "./Impl.sol";
